@@ -1,0 +1,74 @@
+ file name ./census-income/census-income.data
+  first line is '73, Not in universe, 0, 0, High school graduate, 0, Not in universe, Widowed, Not in universe or children, Not in universe, White, All other, Female, Not in universe, Not in universe, Not in labor force, 0, 0, 0, Nonfiler, Not in universe, Not in universe, Other Rel 18+ ever marr not in subfamily, Other relative of householder, 1700.09, ?, ?, ?, Not in universe under 1 year old, ?, 0, Not in universe, United-States, United-States, United-States, Native- Born in the United States, 0, Not in universe, 2, 0, 95, - 50000.'
+ delimiter is ,
+ number of columns = 42
+ size in bytes = 103874469
+ size in MB = 103.874
+ size in MiB = 99.0624
+ size in GB = 0.103874
+ size in GiB = 0.0967406
+ row count = 199523
+    number of distinct elements in column 1 = 91
+    number of distinct elements in column 2 = 9
+    number of distinct elements in column 3 = 52
+    number of distinct elements in column 4 = 47
+    number of distinct elements in column 5 = 17
+    number of distinct elements in column 6 = 1240
+    number of distinct elements in column 7 = 3
+    number of distinct elements in column 8 = 7
+    number of distinct elements in column 9 = 24
+    number of distinct elements in column 10 = 15
+    number of distinct elements in column 11 = 5
+    number of distinct elements in column 12 = 10
+    number of distinct elements in column 13 = 2
+    number of distinct elements in column 14 = 3
+    number of distinct elements in column 15 = 6
+    number of distinct elements in column 16 = 8
+    number of distinct elements in column 17 = 132
+    number of distinct elements in column 18 = 113
+    number of distinct elements in column 19 = 1478
+    number of distinct elements in column 20 = 6
+    number of distinct elements in column 21 = 6
+    number of distinct elements in column 22 = 51
+    number of distinct elements in column 23 = 38
+    number of distinct elements in column 24 = 8
+    number of distinct elements in column 25 = 99800
+    number of distinct elements in column 26 = 10
+    number of distinct elements in column 27 = 9
+    number of distinct elements in column 28 = 10
+    number of distinct elements in column 29 = 3
+    number of distinct elements in column 30 = 4
+    number of distinct elements in column 31 = 7
+    number of distinct elements in column 32 = 5
+    number of distinct elements in column 33 = 43
+    number of distinct elements in column 34 = 43
+    number of distinct elements in column 35 = 43
+    number of distinct elements in column 36 = 5
+    number of distinct elements in column 37 = 3
+    number of distinct elements in column 38 = 3
+    number of distinct elements in column 39 = 3
+    number of distinct elements in column 40 = 53
+    number of distinct elements in column 41 = 2
+    number of distinct elements in column 42 = 2
+ total number of distinct column values = 103419
+
+
+
+ file name ./census-income/census-income.data.d241850.csv
+  first line is '2705.7,0,0,40'
+ delimiter is ,
+ number of columns = 4
+ size in bytes = 2964102
+ size in MB = 2.9641
+ size in MiB = 2.82679
+ size in GB = 0.0029641
+ size in GiB = 0.00276054
+ row count = 199523
+    number of distinct elements in column 1 = 99800
+    number of distinct elements in column 2 = 1478
+    number of distinct elements in column 3 = 1240
+    number of distinct elements in column 4 = 91
+ total number of distinct column values = 102609
+
+
+

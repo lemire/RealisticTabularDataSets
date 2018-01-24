@@ -1,0 +1,21 @@
+ file name ./census1881/census1881.csv
+  first line is 'joseph,richard,40,roman catholic,prince edward island,farmer,Lot No. 1 Prince Prince Edward Island'
+ delimiter is ,
+ number of columns = 7
+ size in bytes = 319731176
+ size in MB = 319.731
+ size in MiB = 304.919
+ size in GB = 0.319731
+ size in GiB = 0.297773
+ row count =  4277807
+    number of distinct elements in column 1 =   152882
+    number of distinct elements in column 2 =   152365
+    number of distinct elements in column 3 =      138
+    number of distinct elements in column 4 =     8837
+    number of distinct elements in column 5 =     2795
+    number of distinct elements in column 6 =    24278
+    number of distinct elements in column 7 =     2127
+ total number of distinct column values = 343422
+
+
+
