@@ -1,0 +1,36 @@
+ file name ./wikileaks/wikileaks.csv
+  first line is '2010-02-28,23:25:00Z,Embassy Tokyo,ENRG'
+ delimiter is ,
+ number of columns = 4
+ size in bytes = 56736177
+ size in MB = 56.7362
+ size in MiB = 54.1078
+ size in GB = 0.0567362
+ size in GiB = 0.0528397
+ row count = 1353226
+    number of distinct elements in column 1 = 4147
+    number of distinct elements in column 2 = 1440
+    number of distinct elements in column 3 = 275
+    number of distinct elements in column 4 = 5148
+ total number of distinct column values = 11010
+
+
+
+ file name ./wikileaks/wikileaks-noquotes.csv
+  first line is '2010-02-28,23:25:00Z,Embassy Tokyo,ENRG'
+ delimiter is ,
+ number of columns = 4
+ size in bytes = 56736171
+ size in MB = 56.7362
+ size in MiB = 54.1078
+ size in GB = 0.0567362
+ size in GiB = 0.0528397
+ row count = 1353226
+    number of distinct elements in column 1 = 4147
+    number of distinct elements in column 2 = 1440
+    number of distinct elements in column 3 = 275
+    number of distinct elements in column 4 = 5146
+ total number of distinct column values = 11008
+
+
+
