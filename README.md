@@ -35,6 +35,7 @@ It consists of  surface synoptic weather reports from land stations for Septembe
 
 Source:
 
+* Frank, A. and Asuncion, A. 2010. UCI machine learning repository. http://archive.ics.uci.edu/ml
 *  Hahn, C., Warren, S., and London, J. 2004. Edited synoptic cloud reports from ships and land stations over the globe, 1982–1991. http://cdiac.ornl.gov/ftp/ndp026b/
 
 
