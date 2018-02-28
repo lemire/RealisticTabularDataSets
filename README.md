@@ -75,3 +75,5 @@ References:
 
 If you just want short tabular datasets for machine learning purposes, there are good choices elsewhere such as [adult](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/).
 
+The [Web Table Corpora](http://webdatacommons.org/webtables/) is interesting.
+
