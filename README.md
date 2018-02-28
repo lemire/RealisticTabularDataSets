@@ -5,6 +5,7 @@ The datasets are gzipped, you can unzip them under Linux and macOS with the gunz
 
 These data sets have been used in several academic papers.
 
+
 ## Census-Income
 
 File: census-income.data.gz 5.7MB
@@ -68,3 +69,9 @@ References:
 * Lemire, D., Ssi‐Yan‐Kai, G. and Kaser, O., 2016. [Consistently faster and smaller compressed bitmaps with roaring](https://arxiv.org/abs/1603.06549). Software: Practice and Experience, 46(11), pp.1547-1569.
 * Lemire D, Kaser O, Aouiche K. [Sorting improves word-aligned bitmap indexes](https://arxiv.org/abs/0901.3751). Data & Knowledge Engineering 2010; 69(1):3–28, doi:10.1016/j.datak.2009.08.006.
 * Lemire D, Kaser O, Gutarra E. [Reordering rows for better compression: Beyond the lexicographical order](https://arxiv.org/abs/1207.2189). ACM Transactions on Database Systems 2012; 37(3), doi:10.1145/2338626.2338633.
+
+
+## More data
+
+If you just want short tabular datasets for machine learning purposes, there are good choices elsewhere such as [adult](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/).
+
