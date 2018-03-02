@@ -77,3 +77,5 @@ If you just want short tabular datasets for machine learning purposes, there are
 
 The [Web Table Corpora](http://webdatacommons.org/webtables/) is interesting.
 
+See [Big Data And AI: 30 Amazing (And Free) Public Data Sources For 2018](https://www.forbes.com/sites/bernardmarr/2018/02/26/big-data-and-ai-30-amazing-and-free-public-data-sources-for-2018/#522e3e6c5f8a).
+
