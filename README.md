@@ -65,7 +65,7 @@ We sorted the tables lexicographically, with the smallest cardinality column bei
 
 References:  
 
-* Lemire, D., Kaser, O., Kurz, N., Deri, L., O'Hara, C., Saint‐Jacques, F. and Ssi‐Yan‐Kai, G., 2017. [Roaring bitmaps: Implementation of an optimized software library](https://arxiv.org/abs/1709.07821). Software: Practice and Experience (to appear).
+* Lemire, D., Kaser, O., Kurz, N., Deri, L., O'Hara, C., Saint‐Jacques, F. and Ssi‐Yan‐Kai, G., 2017. [Roaring bitmaps: Implementation of an optimized software library](https://arxiv.org/abs/1709.07821). Software: Practice and Experience 48 (4), 2018.
 * Lemire, D., Ssi‐Yan‐Kai, G. and Kaser, O., 2016. [Consistently faster and smaller compressed bitmaps with roaring](https://arxiv.org/abs/1603.06549). Software: Practice and Experience, 46(11), pp.1547-1569.
 * Lemire D, Kaser O, Aouiche K. [Sorting improves word-aligned bitmap indexes](https://arxiv.org/abs/0901.3751). Data & Knowledge Engineering 2010; 69(1):3–28, doi:10.1016/j.datak.2009.08.006.
 * Lemire D, Kaser O, Gutarra E. [Reordering rows for better compression: Beyond the lexicographical order](https://arxiv.org/abs/1207.2189). ACM Transactions on Database Systems 2012; 37(3), doi:10.1145/2338626.2338633.
